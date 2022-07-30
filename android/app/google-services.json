@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395533097654",
+    "project_id": "brochat-92705",
+    "storage_bucket": "brochat-92705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395533097654:android:7bad83d8a3e9a1186ee417",
+        "android_client_info": {
+          "package_name": "com.aniket.brochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395533097654-2ttcg0iibmn50mbrp4itfhg86plk54e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIyqyTvpddJgiCimtjDpeo3PhuwGrzKSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395533097654-2ttcg0iibmn50mbrp4itfhg86plk54e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
